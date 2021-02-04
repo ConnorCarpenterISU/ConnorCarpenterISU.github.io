@@ -3,6 +3,8 @@ title: "About Me"
 ---
 
 - __Name:__ Connor Carpenter
-- __Ocupation:__ Data Science Student at Iowa State University
+- __Occupation:__ Data Science Student at Iowa State University, Graduation in May 2021
+- __Previous Experience:__ Professional experience within a variety of industries including health care, finance, and engineering consulting
+- __Special Interest:__ Sports data, simulation modeling, visualization
 
 ![](ISU-DS.jpg)
