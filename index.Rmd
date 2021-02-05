@@ -4,4 +4,6 @@ title: "Personal Website"
 
 Hello, World!
 
-Welcome to my website, please visit my "About Me" tab for more information.
+Welcome to my website, please visit the other tabs for more information.
+
+![](selfie.jpg)
